@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
 
+<br>
+
 <p><strong>⚒️ Tools ⚒️</strong></p>
 <p>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
@@ -23,10 +25,12 @@
 </p>
 
 <br>
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/) 
 <img src="http://mazandi.herokuapp.com/api?handle=sjy010208&theme=warm"/>
 
+<br>
 <br>
 
 ![sjy1410's github stats](https://github-readme-stats.vercel.app/api?username=sjy1410&show_icons=true)
