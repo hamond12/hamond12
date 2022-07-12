@@ -16,13 +16,13 @@
 </p>
 
 <p><strong>⚒️Tools⚒️</strong></p>
+<p>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-<p>
-  <img src="https://img.shields.io/badge/Visual Studio Code-#007ACCe?style=flat&logo=/Visual Studio Code&logoColor=#007ACC"/></a>&nbsp
 </p>
 
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/)
 
