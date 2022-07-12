@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
-</div>
 
 <br>
 
@@ -32,3 +31,4 @@
 
 ![sjy1410's github stats](https://github-readme-stats.vercel.app/api?username=sjy1410&show_icons=true)
 
+</div>
