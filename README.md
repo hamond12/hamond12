@@ -4,7 +4,7 @@
 
 <br>
 
-<p><strong>I've used</strong></p>
+<p><strong>🌱 I've used 🌱</strong></p>
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
 
-<p><strong>⚒️Tools⚒️</strong></p>
+<p><strong>⚒️ Tools ⚒️</strong></p>
 <p>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
@@ -24,7 +24,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/) 
 <img src="http://mazandi.herokuapp.com/api?handle=sjy010208&theme=warm"/>
 
 <br>
