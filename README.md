@@ -25,7 +25,9 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/)
-
 <img src="http://mazandi.herokuapp.com/api?handle=sjy010208&theme=warm"/>
+
+![sjy1410's github stats](https://github-readme-stats.vercel.app/api?username=sjy1410&show_icons=true)
+[![sjy1410's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy1410ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sjy1410)
 
 </div>
