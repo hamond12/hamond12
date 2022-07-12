@@ -42,6 +42,5 @@
 <p><strong>⭐ github ⭐</strong></p>
 
 ![sjy1410's github stats](https://github-readme-stats.vercel.app/api?username=sjy1410&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy1410&layout=compact&theme=tokyonight)
 
 </div>
