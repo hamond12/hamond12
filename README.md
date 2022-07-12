@@ -4,13 +4,19 @@
 
 <br>
 
-<p><Strong>⚒️I've used⚒️</strong></p>
+<p><strong>I've used</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 </p>
+
+<p><strong>⚒️Tools⚒️</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Visual Studio Code-#007ACCe?style=flat&logo=/Visual Studio Code&logoColor=#007ACC"/></a>&nbsp
+</p>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/)
 
