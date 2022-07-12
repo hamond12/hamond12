@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Juyeong's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Juyeong's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <br>
 
@@ -21,14 +21,14 @@
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
+</div>
 
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/)
 <img src="http://mazandi.herokuapp.com/api?handle=sjy010208&theme=warm"/>
 
+<br>
+
 ![sjy1410's github stats](https://github-readme-stats.vercel.app/api?username=sjy1410&show_icons=true)
-[![sjy1410's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Juyeong SongID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sjy1410)
 
-
-</div>
