@@ -43,8 +43,3 @@
 <br>
 <br>
 
-<p><strong>⭐ github ⭐</strong></p>
-
-![sjy1410's github stats](https://github-readme-stats.vercel.app/api?username=sjy1410&show_icons=true)
-
-</div>
