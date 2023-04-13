@@ -43,3 +43,8 @@
 <br>
 <br>
 
+<p><strong>💻 My blog 💻</strong></p>
+
+[블로그 링크](https://velog.io/@sjy1410)
+
+
