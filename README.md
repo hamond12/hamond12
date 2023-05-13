@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p><strong>🌱 I've used 🌱</strong></p>
+<h2><strong>🌱 I've used 🌱</strong></h2>
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 <br>
 
-<p><strong>⚒️ Tools ⚒️</strong></p>
+<h2><strong>⚒️ Tools ⚒️</strong></h2>
 <p>
   Coding <br>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
@@ -43,7 +43,7 @@
 <br>
 <br>
 
-<p><strong>📒 Baekjoon 📕</strong></p>
+<h2><strong>📒 Baekjoon 📕</strong></h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/) 
 
