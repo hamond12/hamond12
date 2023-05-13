@@ -34,9 +34,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
   <br>
   <h4>Write</h4>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white"/>
   <h4>Game</h4>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat&logo=flat&logoColor=black"/></a>
