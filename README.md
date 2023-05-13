@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p><strong>🌱 I've used 🌱</strong></p>
+### 🌱 I've used 🌱
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -22,7 +22,7 @@
   
 <br>
 
-<p><strong>⚒️ Tools ⚒️</strong></p>
+### ⚒️ Tools ⚒️
 <p>
   <h4>Coding</h4>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
@@ -44,14 +44,14 @@
 <br>
 <br>
 
-<p><strong>📒 Baekjoon 📕</strong></p>
+### 📒 Baekjoon 📕
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/) 
 
 <br>
 <br>
 
-<p><strong>💻 My blog 💻</strong></p>
+### 💻 My blog 💻
 
 [블로그 링크](https://velog.io/@sjy1410)
 
