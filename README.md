@@ -33,8 +33,10 @@
   <h4>Design</h4>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-FF0000-?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
   <br>
+  <h4>Write</h4>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   <h4>Game</h4>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat&logo=flat&logoColor=black"/></a>
