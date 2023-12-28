@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-3F3F3F?style=flat&logo=Visual%20Studio%20Code&logoColor=52A8EC"/>
   <br>
   <h4>Design</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-935AEE?style=flat&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
   <br>
@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/react-313131?style=flat&logo=react&logoColor=82D7F7">
   <img src="https://img.shields.io/badge/flutter-313131?style=flat&logo=flutter&logoColor=6FBCEB">
   <h4>Write</h4>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tistory-E56350?style=flat&logo=tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-181717?style=flat&logo=Notion&logoColor=white"/>
 </p>
 
 <br>
