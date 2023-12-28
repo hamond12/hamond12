@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6ec7f9&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Juyoung's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-### ⚒️ Tools ⚒️
+## ⚒️ Tools ⚒️
 <p>
   <h4>Coding</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
@@ -25,6 +25,6 @@
 <br>
 <br>
 
-### 📒 Baekjoon 📕
+## 📒 Baekjoon 📕
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjy010208)](https://solved.ac/sjy010208/) 
