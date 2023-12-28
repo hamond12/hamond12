@@ -5,8 +5,8 @@
 ### ⚒️ Tools ⚒️
 <p>
   <h4>Coding</h4>
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-3F3F3F?style=flat&logo=Visual%20Studio%20Code&logoColor=52A8EC"/>
   <br>
   <h4>Design</h4>
