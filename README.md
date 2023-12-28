@@ -15,11 +15,15 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
   <br>
   <h4>Framework</h4>
-  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/flutter-61DAFB?style=flat&logo=flutter&logoColor=black">
   <h4>Write</h4>
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white"/>
 </p>
+
+<br>
+<br>
 
 ### 📒 Baekjoon 📕
 
