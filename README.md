@@ -1,54 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6ec7f9&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Juyoung's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-### 🏫 부산소프트웨어마이스터고 재학 중 ...
-  
-<br>
-<br>
-
-### 🌱 I've used 🌱
-<p>
-  <h4>Frontend</h4>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
-  <br>
-  <h4>etc</h4>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  </p>
-  
-<br>
-<br>
-
-### ⚒️ Tools ⚒️
-<p>
-  <h4>Coding</h4>
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <br>
-  <h4>Design</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-  <br>
-  <h4>Write</h4>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-181717?style=flat&logo=Notion&logoColor=white"/>
-  <h4>Game</h4>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=flat&logo=flat&logoColor=black"/></a>
-  <br>
-</p>
-
-<br>
-<br>
 
 ### 📒 Baekjoon 📕
 
